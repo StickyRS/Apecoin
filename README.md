@@ -1,2 +1,1 @@
-# Apecoin
-Apecoin
+#Stickycoin
